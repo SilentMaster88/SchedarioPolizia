@@ -1,0 +1,29 @@
+D:\Documents and Settings\user\Impostazioni locali\Dati applicazioni\Temporary Projects\SchedarioPolizia\bin\Debug\SchedarioPolizia.exe
+D:\Documents and Settings\user\Impostazioni locali\Dati applicazioni\Temporary Projects\SchedarioPolizia\bin\Debug\SchedarioPolizia.pdb
+D:\Documents and Settings\user\Impostazioni locali\Dati applicazioni\Temporary Projects\SchedarioPolizia\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\user\Impostazioni locali\Dati applicazioni\Temporary Projects\SchedarioPolizia\obj\Debug\SchedarioPolizia.FormSchdeario.resources
+D:\Documents and Settings\user\Impostazioni locali\Dati applicazioni\Temporary Projects\SchedarioPolizia\obj\Debug\SchedarioPolizia.FormSezPersone.resources
+D:\Documents and Settings\user\Impostazioni locali\Dati applicazioni\Temporary Projects\SchedarioPolizia\obj\Debug\SchedarioPolizia.Properties.Resources.resources
+D:\Documents and Settings\user\Impostazioni locali\Dati applicazioni\Temporary Projects\SchedarioPolizia\obj\Debug\SchedarioPolizia.csproj.GenerateResource.Cache
+D:\Documents and Settings\user\Impostazioni locali\Dati applicazioni\Temporary Projects\SchedarioPolizia\obj\Debug\SchedarioPolizia.exe
+D:\Documents and Settings\user\Impostazioni locali\Dati applicazioni\Temporary Projects\SchedarioPolizia\obj\Debug\SchedarioPolizia.pdb
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.exe
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.pdb
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\bin\Debug\SchedarioPolizia.exe
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\bin\Debug\SchedarioPolizia.pdb
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.FormSezPersone.resources
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.Properties.Resources.resources
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.csproj.GenerateResource.Cache
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.FormSchedario.resources
+D:\Documents and Settings\user\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.FormSezAuto.resources
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.exe
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.pdb
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\bin\Debug\SchedarioPolizia.exe
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\bin\Debug\SchedarioPolizia.pdb
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.FormSchedario.resources
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.FormSezAuto.resources
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.FormSezPersone.resources
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.Properties.Resources.resources
+C:\Documents and Settings\Office\Desktop\SchedarioPolizia\SchedarioPolizia\obj\Debug\SchedarioPolizia.csproj.GenerateResource.Cache
